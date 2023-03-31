@@ -1,5 +1,5 @@
-# adb-EFS-Backup-Restore-Riva-Linux
-adb-EFS-Backup-Restore-Riva-Linux
+# adb-EFS-Backup-Restore-Riva-Linux 
+adb-EFS-Backup-Restore-Riva-Linux /// Redmi 5a
 
 Xiaomi Redmi 5a (riva) Linux EFS partitions (wifi mac etc...) Backup/Restore shell scripts. 
 
